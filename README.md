@@ -6,3 +6,5 @@ This repository is created for SCM Homework 1. It demonstrates version control, 
 - Follow branching strategies (e.g., Git Flow).
 - Regularly review and update documentation.
 - Track and resolve issues systematically.
+## Best Practices in Software Configuration Management
+## Best Practices in Software Configuration Management
