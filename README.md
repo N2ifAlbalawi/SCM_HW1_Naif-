@@ -8,3 +8,7 @@ This repository is created for SCM Homework 1. It demonstrates version control, 
 - Track and resolve issues systematically.
 ## Best Practices in Software Configuration Management
 ## Best Practices in Software Configuration Management
+## Best Practices in Software Configuration Management
+## Best Practices in Software Configuration Management
+## Best Practices in Software Configuration Management
+
